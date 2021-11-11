@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/circuito.obj-c43708446e7da4179951be008723885e.mesh"
+
+[deps]
+
+files=[ "res://.import/circuito.obj-c43708446e7da4179951be008723885e.mesh" ]
+
+source_file="res://3d-models/circuito.obj"
+dest_files=[ "res://.import/circuito.obj-c43708446e7da4179951be008723885e.mesh", "res://.import/circuito.obj-c43708446e7da4179951be008723885e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
